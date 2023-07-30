@@ -1,0 +1,7 @@
+---------------------------------------------
+Results for bob
+Quiz Taken: Python Quiz
+Date: 2023-07-30 14:48:35.554011
+Questions: 4 out of 4 correct
+Score: 30 points out of possible 30
+Elapsed time: 0:00:03

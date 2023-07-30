@@ -1,0 +1,24 @@
+<QuizML name="Python Quiz">
+    <Description>This is a sample quiz on the basics of python. There are some sample questions and such, 
+    but nothing too difficult.</Description>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="3">Which operator has higher precedence in the following list</QuestionText>
+        <Answer name="1">% (Modulus)</Answer>
+        <Answer name="2">and (BitWise AND)</Answer>
+        <Answer name="3">** (Exponent)</Answer>
+        <Answer name="4">Comparison</Answer>
+    </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="t">Can we use the “else” block for for loop?</QuestionText>
+    </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="t">Every time when we modify the string, Python Always create a new String and assign a new string to that variable.</QuestionText>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="3">Which of the following is an invalid python datatype?</QuestionText>
+        <Answer name="1">int</Answer>
+        <Answer name="2">string</Answer>
+        <Answer name="3">point</Answer>
+        <Answer name="4">float</Answer>
+    </Question>
+</QuizML>
