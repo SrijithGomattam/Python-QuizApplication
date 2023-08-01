@@ -18,4 +18,10 @@ The Quiz Application includes the following features:
 ## Enjoy!
 Thank you for using the Quiz Application! If you have any questions or need further assistance, don't hesitate to reach out.
 
-Happy quizzing! 🎉
+## Happy quizzing! 🎉
+
+
+
+
+Credit to Joe Marini's LinkedIn Learning Course for inspiration/guidance while making this project!
+You can find the course here: https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/building-a-quiz-app-in-python 
